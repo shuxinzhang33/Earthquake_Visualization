@@ -1,9 +1,9 @@
 # Visualization and Analysis of Earthquake Data (Observable)
 
+An interactive data visualization project built in **Observable** to explore global earthquake patterns from **Jan 2022 to Jan 2024** using **USGS earthquake data**. The notebook presents multiple linked views (maps + charts) to help users understand the **geographic distribution**, **depth/magnitude characteristics**, and **temporal trends** of seismic activity.
+
 ## 👥 Team
 Edison Lu, Yanting Hu, Shuxin Zhang, Braden Sams
-
-An interactive data visualization project built in **Observable** to explore global earthquake patterns from **Jan 2022 to Jan 2024** using **USGS earthquake data**. The notebook presents multiple linked views (maps + charts) to help users understand the **geographic distribution**, **depth/magnitude characteristics**, and **temporal trends** of seismic activity.
 
 ## 🚀 Live Demo (Observable)
 https://observablehq.com/d/29fb341e7fc8cf65
